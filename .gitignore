@@ -1,0 +1,7 @@
+# Ignore everything in Project 1 by default
+/*
+
+# Keep only the main root-level notebooks and documentation
+!/*.ipynb
+!/.gitignore
+!/README.md
